@@ -1,0 +1,25 @@
+.box {
+    width:80%;
+    /* padding: 10px 10px 10px 10px; */
+    /* border-style:solid;
+    border-width: 1px;
+    border-color: coral; */
+    position: absolute;
+    background-color: blueviolet;
+}
+.div1 {
+    width:30%;
+    float: left;
+    word-wrap: break-word; 
+    word-break: normal; 
+    border-left:solid 21px;
+    border-right:solid 21px;
+    border-color: #fff;
+}
+.div2 {
+    width:33%;
+    float: left;
+    word-wrap: break-word; 
+    word-break: normal; 
+    
+}
